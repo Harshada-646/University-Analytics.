@@ -1,0 +1,45 @@
+Student ID,Student Name,Department,Semester,Attendance,CGPA,Backlogs,Fees Paid,Scholarship,Placement,Package
+STU164,Sneha Desai 9,Civil,8.0,85.2,7.9,0,60000.0,No,not placed,—
+STU145,Kiran Joshi 8,IT,7.0,,5.9,0,60000.0,No,Placed,₹6.1 LPA
+STU178,Krish Shah 9,IT,5.0,77.9,4.2,2,65000.0,No,In Process,—
+STU229,Isha Mehta 12,Computer Eng.,4.0,72.2,4.6,1,,No,In Process,—
+STU010,Yash Desai 1,IT,4.0,79.6,6.6,2,75000.0,Yes,In Process,—
+STU267,Neha Patel 14,electronics ,8.0,,,1,80000.0,,Placed,₹6.6 LPA
+STU102,Priya Shah 6,IT,8.0,95.5,6.8,1,70000.0,NO ,Placed,₹6.7 LPA
+STU138,Krish Shah 7,IT,5.0,78.0,7.4,0,75000.0,No,in process,—
+STU034,Dhruv Mehta 2,computer eng.,8.0,81.5,6.3,2,70000.0,No,Placed,₹9.9 LPA
+STU091,Ananya Joshi 5,Civil,7.0,69.1,5.7,4,85000.0,No,NOT PLACED,—
+STU174,Dhruv Mehta 9,Computer Eng.,,73.6,4.0,-3,75000.0,No,Not Placed,—
+STU165,Kiran Joshi 9,Mechanical,,74.2,6.6,1,85000.0,No,Not Placed,—
+STU231,Ananya Joshi 12,IT,8.0,,15.2,3,80000.0,Yes,in process,—
+STU061,Aarav Patel 4,Computer Eng.,5.0,,6.0,1,90000.0,No,Not Placed,—
+STU241,Aarav Patel 13,Civil,8.0,80.3,6.9,1,85000.0,No,Not Placed,—
+STU252,Dev Patel 13,Computer Eng.,6.0,85.8,6.3,1,90000.0,No,Not Placed,—
+STU290,  Yash Desai 15  ,Mechanical,4.0,61.5,5.6,3,80000.0,No,In Process,—
+STU047,Neha Patel 3,computer eng.,6.0,62.0,4.3,2,75000.0,No,placed,₹3.0 LPA
+STU155,Mahi Desai 8,Civil,4.0,,,1,70000.0,No,Not Placed,—
+STU043,Rohan Mehta 3,Mechanical,4.0,92.8,7.0,1,65000.0,No,Not Placed,—
+STU268,Rahul Shah 14,Mechanical,6.0,70.3,5.8,2,999999.0,No,Placed,₹9.7 LPA
+STU199,Aisha Mehta 10,Civil,5.0,78.5,6.0,1,85000.0,Partial,In Process,—
+STU091,  Ananya Joshi 5  ,Civil,7.0,,5.7,4,85000.0,No,Not Placed,—
+STU046,Aditya Sharma 3,Civil,6.0,100.0,6.9,0,60000.0,No,Placed,₹7.8 LPA
+STU169,Isha Mehta 9,IT,8.0,,6.2,2,75000.0,No,Placed,₹6.4 LPA
+STU074,Dhruv Mehta 4,Mechanical,6.0,83.4,6.9,0,85000.0,No,Placed,₹6.3 LPA
+STU006,Aditya Sharma 1,Civil,8.0,86.7,,0,70000.0,Yes,Placed,₹8.3 LPA
+STU283,  Rohan Mehta 15  , Computer Eng. ,8.0,76.2,5.4,0,70000.0,No,Not Placed,—
+STU077,Diya Patel 4,Mechanical,8.0,73.9,4.3,1,,no,Placed,₹6.4 LPA
+STU117,Diya Patel 6,Mechanical,4.0,64.4,5.2,0,70000.0,no,In Process,—
+STU058,  Krish Shah 3  ,Electronics,4.0,81.5,5.9,2,80000.0,,not placed,—
+STU098,Krish Shah 5,Civil,4.0,80.5,5.8,0,85000.0,No,not placed,—
+STU247,Neha Patel 13,Electronics,6.0,142,4.6,1,60000.0,No,Placed,₹4.4 LPA
+STU098,Krish Shah 5,Civil,4.0,80.5,5.8,0,85000.0,no,Not Placed,—
+STU159,Aisha Mehta 8,computer eng.,6.0,,6.2,1,80000.0,No,Placed,₹7.6 LPA
+STU119,Aisha Mehta 6,Computer Eng.,6.0,82.6,5.0,1,90000.0,Yes,Placed,₹6.7 LPA
+STU025,Kiran Joshi 2,IT,8.0,77.9,5.9,0,65000.0,yes,Placed,₹4.3 LPA
+STU109,Isha Mehta 6,IT,6.0,69.4,6.1,1,60000.0,No,Placed,₹6.3 LPA
+STU110,Yash Desai 6,Mechanical,6.0,--,4.9,2,,No,in process,—
+STU018,Krish Shah 1,electronics ,6.0,80.7,5.5,2,75000.0,No,In Process,—
+STU018,Krish Shah 1,ELECTRONICS,6.0,80.7,5.5,2,75000.0,No,In Process,—
+STU125,  Kiran Joshi 7  ,Electronics,5.0,73.0,6.2,2,70000.0,Partial,Not Placed,—
+STU026,Aditya Sharma 2,it,5.0,69.6,4.7,2,75000.0,NO ,In Process,—
+STU159,  Aisha Mehta 8  ,Computer Eng.,6.0,,6.2,1,80000.0,NO ,Placed,₹7.6 LPA
